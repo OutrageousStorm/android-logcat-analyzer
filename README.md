@@ -17,3 +17,7 @@ python3 crash_detector.py           # Watch for crashes with alerts
 - Per-app error summaries
 - Export to JSON/CSV
 - Custom filter rules
+
+
+## Merged from android-logcat-parser
+This repo supersedes `android-logcat-parser`. All scripts are consolidated here.
